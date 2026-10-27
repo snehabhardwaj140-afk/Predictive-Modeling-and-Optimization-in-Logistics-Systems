@@ -1,0 +1,2 @@
+# Predictive-Modeling-and-Optimization-in-Logistics-Systems
+The **Vehicle Routing Problem (VRP)**, first introduced by Dantzig and Ramser in 1959, serves as a cornerstone of operations research and logistics engineering Its fundamental objective is to construct optimal dispatch routes for a fleet of vehicles serving a set of geographically dispersed customers while minimizing overall transport costs
